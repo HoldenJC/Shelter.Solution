@@ -1,0 +1,14 @@
+C:\Users\Holde\Desktop\coding\Shelter.Solution\bin\Debug\netcoreapp2.2\Shelter.Solution.deps.json
+C:\Users\Holde\Desktop\coding\Shelter.Solution\bin\Debug\netcoreapp2.2\Shelter.Solution.runtimeconfig.json
+C:\Users\Holde\Desktop\coding\Shelter.Solution\bin\Debug\netcoreapp2.2\Shelter.Solution.runtimeconfig.dev.json
+C:\Users\Holde\Desktop\coding\Shelter.Solution\bin\Debug\netcoreapp2.2\Shelter.Solution.dll
+C:\Users\Holde\Desktop\coding\Shelter.Solution\bin\Debug\netcoreapp2.2\Shelter.Solution.pdb
+C:\Users\Holde\Desktop\coding\Shelter.Solution\obj\Debug\netcoreapp2.2\Shelter.Solution.csprojAssemblyReference.cache
+C:\Users\Holde\Desktop\coding\Shelter.Solution\obj\Debug\netcoreapp2.2\Shelter.Solution.csproj.CoreCompileInputs.cache
+C:\Users\Holde\Desktop\coding\Shelter.Solution\obj\Debug\netcoreapp2.2\Shelter.Solution.RazorAssemblyInfo.cache
+C:\Users\Holde\Desktop\coding\Shelter.Solution\obj\Debug\netcoreapp2.2\Shelter.Solution.RazorAssemblyInfo.cs
+C:\Users\Holde\Desktop\coding\Shelter.Solution\obj\Debug\netcoreapp2.2\Shelter.Solution.AssemblyInfoInputs.cache
+C:\Users\Holde\Desktop\coding\Shelter.Solution\obj\Debug\netcoreapp2.2\Shelter.Solution.AssemblyInfo.cs
+C:\Users\Holde\Desktop\coding\Shelter.Solution\obj\Debug\netcoreapp2.2\Shelter.Solution.RazorTargetAssemblyInfo.cache
+C:\Users\Holde\Desktop\coding\Shelter.Solution\obj\Debug\netcoreapp2.2\Shelter.Solution.dll
+C:\Users\Holde\Desktop\coding\Shelter.Solution\obj\Debug\netcoreapp2.2\Shelter.Solution.pdb

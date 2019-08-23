@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj": {}
+    "C:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj": {
+    "C:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj",
+        "projectUniqueName": "C:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj",
         "projectName": "Shelter.Solution",
-        "projectPath": "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj",
+        "projectPath": "C:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj",
         "packagesPath": "C:\\Users\\Holde\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\obj\\",
+        "outputPath": "C:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -71,6 +71,10 @@
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc2, )"
             }
           },
           "imports": [
