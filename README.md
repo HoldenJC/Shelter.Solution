@@ -22,7 +22,8 @@ An API made for Epicodus C#/.NET independent project #6 that lists available cat
 
 > dotnet run
 
-* _Navigate to http://localhost:5000/index.html to see API documentation and test API CRUD functionality_
+* _Navigate to http://localhost:5000/index.html to see Swagger implementation, API documentation and test API CRUD functionality_
+* _Navigate between http://localhost:5000/api/animals?api-version=1 and http://localhost:5000/api/animals?api-version=2 to see successful implementation of API versioning_
 
 ## Known Bugs
 * No known bugs at this time.
@@ -35,7 +36,8 @@ _If you have any questions, ideas, concerns, or would like to contribute in some
 _C#,_
 _ASP .NET,_
 _Entity,_
-_Swagger_
+_Swagger,_
+_API Versioning_
 
 ### License
 
