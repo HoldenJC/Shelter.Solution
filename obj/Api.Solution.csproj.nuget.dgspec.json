@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj": {}
+    "c:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj": {
+    "c:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj",
+        "projectUniqueName": "c:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj",
         "projectName": "Api.Solution",
-        "projectPath": "C:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj",
+        "projectPath": "c:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj",
         "packagesPath": "C:\\Users\\Holde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\obj\\",
+        "outputPath": "c:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
