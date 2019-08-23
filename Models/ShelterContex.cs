@@ -4,7 +4,6 @@ namespace Shelter.Models
 {
   public class ShelterContext : DbContext
   {
-
     public DbSet<Animal> Animals { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -19,6 +18,5 @@ namespace Shelter.Models
     {
 
     }
-
   }
 }
