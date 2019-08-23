@@ -12,7 +12,7 @@ namespace Shelter.Models
     [Required]
     public string Species { get; set; }
     [Required]
-    [StringLength(20)]
+    [StringLength(20, ErrorMessage = "Max 20 characters.")]
     public string Name { get; set; }
     [Required]
     [Range(0, 100, ErrorMessage = "Age must be between 0 and 100.")]

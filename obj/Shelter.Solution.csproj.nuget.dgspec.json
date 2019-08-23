@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj": {}
+    "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj": {
+    "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj",
+        "projectUniqueName": "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj",
         "projectName": "Shelter.Solution",
-        "projectPath": "C:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj",
+        "projectPath": "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj",
         "packagesPath": "C:\\Users\\Holde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\obj\\",
+        "outputPath": "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

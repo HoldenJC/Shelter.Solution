@@ -5,12 +5,28 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Shelter.Models;
 
+// namespace Shelter.Controllers
+// {
+//   [ApiVersion("2.0")]
+//   [Route("api/[controller]")]
+//   [ApiController]
+//   public class AnimalsV2Controller : ControllerBase
+//   {
+//     // TEST versioning for API
+//     [HttpGet]
+//     public IEnumerable<string> Get()
+//     {
+//       return new string[] { "Using version 2.0 of api", "value2" };
+//     }
+//   }
+// }
+
 namespace Shelter.Controllers
 {
   [ApiVersion("1.0")]
   [Route("api/[controller]")]
   [ApiController]
-  public class AnimalsController : ControllerBase
+  public class AnimalsV1Controller : ControllerBase
   {
     private ShelterContext _db = new ShelterContext();
 
@@ -54,14 +70,11 @@ namespace Shelter.Controllers
       _db.SaveChanges();
     }
   }
-}
 
-namespace Shelter.Controllers2
-{
   [ApiVersion("2.0")]
   [Route("api/[controller]")]
   [ApiController]
-  public class AnimalsController2 : ControllerBase
+  public class AnimalsV2Controller : ControllerBase
   {
     // TEST versioning for API
     [HttpGet]
