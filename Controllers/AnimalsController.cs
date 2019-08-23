@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using WildlifePark.Models;
+using Shelter.Models;
 
-namespace WildlifePark.Controllers
+namespace Shelter.Controllers
 {
   [Route("api/[controller]")]
   [ApiController]
   public class AnimalsController : ControllerBase
   {
-    private WildlifeParkContext _db = new WildlifeParkContext();
+    private ShelterContext _db = new ShelterContext();
 
     // GET api/animals
     [HttpGet]

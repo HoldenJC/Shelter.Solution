@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj",
+  "FilePath": "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2958,7 +2958,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "Api.Solution",
+  "RootNamespace": "Shelter.Solution",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj": {}
+    "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj": {
+    "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj",
-        "projectName": "Api.Solution",
-        "projectPath": "c:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\Api.Solution.csproj",
+        "projectUniqueName": "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj",
+        "projectName": "Shelter.Solution",
+        "projectPath": "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\Shelter.Solution.csproj",
         "packagesPath": "C:\\Users\\Holde\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Holde\\Desktop\\coding\\Api.Solution\\obj\\",
+        "outputPath": "c:\\Users\\Holde\\Desktop\\coding\\Shelter.Solution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -54,11 +54,23 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.56.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [

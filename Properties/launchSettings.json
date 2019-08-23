@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Api.Solution": {
+    "Shelter.Solution": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",
