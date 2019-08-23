@@ -61,7 +61,7 @@ namespace Shelter.Controllers2
   [ApiVersion("2.0")]
   [Route("api/[controller]")]
   [ApiController]
-  public class AnimalsController : ControllerBase
+  public class AnimalsController2 : ControllerBase
   {
     // TEST versioning for API
     [HttpGet]
